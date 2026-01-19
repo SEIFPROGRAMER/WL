@@ -1,15 +1,4 @@
 /*!
-Parts of this script are from the TurboWarp Packager <https://packager.turbowarp.org/>, licensed as follows:
-Copyright (C) 2021-2024 Thomas Weber
-
-The Source Code Form of this program is available under the terms of the
-Mozilla Public License, v. 2.0. You can obtain a copy of the license at
-https://www.mozilla.org/en-US/MPL/2.0/.
-
-Parts of this script are from Scratch <https://scratch.mit.edu/>, licensed as follows:
-Copyright (c) 2016, Massachusetts Institute of Technology
-All rights reserved.
-
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
